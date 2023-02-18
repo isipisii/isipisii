@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Benig</h1>
-<h3 align="center">A self taught frontend web developer, aiming to become a full-stack.</h3>
+<h3 align="center">A student self taught frontend web developer, aiming to become a full-stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isipisii&label=Profile%20views&color=0e75b6&style=flat" alt="isipisii" /> </p>
 
