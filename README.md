@@ -2,12 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isipisii&label=Profile%20views&color=0e75b6&style=flat" alt="isipisii" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **alebenig4@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/alessandro benig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alessandro benig" height="30" width="40" /></a>
