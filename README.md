@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessandro Benig</h1>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22wcdi46uy5zxbmv5joaaumaa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=22wcdi46uy5zxbmv5joaaumaa&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22wcdi46uy5zxbmv5joaaumaa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=03a800&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isipisii&label=Profile%20views&color=0e75b6&style=flat" alt="isipisii" /> </p>
 
